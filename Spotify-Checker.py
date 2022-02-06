@@ -7,16 +7,20 @@ from threading import *
 from itertools import islice
 import sys, os
 print("""
-   _____             _   _  __          _____ _               _             
-  / ____|           | | (_)/ _|        / ____| |             | |            
- | (___  _ __   ___ | |_ _| |_ _   _  | |    | |__   ___  ___| | _____ _ __ 
-  \___ \| '_ \ / _ \| __| |  _| | | | | |    | '_ \ / _ \/ __| |/ / _ \ '__|
-  ____) | |_) | (_) | |_| | | | |_| | | |____| | | |  __/ (__|   <  __/ |   
- |_____/| .__/ \___/ \__|_|_|  \__, |  \_____|_| |_|\___|\___|_|\_\___|_|   
-        | |                     __/ |                                       
-        |_|                    |___/                                        
-                                             www.xpykerz.com                
-                                             help : t.me/Xpykerz_Chat
+ 
+ 
+ 
+ 
+ 
+BY vengeance                            Vengeance checker V2.0      
+
+
+
+ 
+ 
+ 
+                                             discord: https://discord.gg/fCnadtw5gq                
+                                             help :PH Free Nitro#0001
 """)
 
 check = input("\nWARNING....!..: The tools is on developing and this is BETA Version. Tool maybe miss behave sometimes. \n Do you want to continue (yes/no | Default:yes): ")
